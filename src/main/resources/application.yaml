@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/sendz
+    username: "root"
+    password: "password"
+  flyway:
+    enabled: true
+    repair: true

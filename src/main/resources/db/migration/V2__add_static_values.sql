@@ -1,0 +1,72 @@
+insert into GYMS(GYM) values('Bloc Shop Chabanel');
+insert into GYMS(GYM) values('Bloc Shop Hochelaga');
+insert into GYMS(GYM) values('Bloc Shop Mile-Ex');
+insert into GYMS(GYM) values('Crux Laval');
+insert into GYMS(GYM) values('Crux Boisbriand');
+insert into GYMS(GYM) values('Bloc Action');
+insert into GYMS(GYM) values('Cafe Bloc');
+insert into GYMS(GYM) values('Takai');
+
+insert into WALL_TYPES(WALL_TYPE) values('Dalle');
+insert into WALL_TYPES(WALL_TYPE) values('Face');
+insert into WALL_TYPES(WALL_TYPE) values('Leger devers');
+insert into WALL_TYPES(WALL_TYPE) values('Gros devers');
+insert into WALL_TYPES(WALL_TYPE) values('Roof');
+
+insert into BOULDER_TYPES(BOULDER_TYPE) values('Statique');
+insert into BOULDER_TYPES(BOULDER_TYPE) values('Dyno');
+insert into BOULDER_TYPES(BOULDER_TYPE) values('Dynamique');
+insert into BOULDER_TYPES(BOULDER_TYPE) values('Power endurance');
+insert into BOULDER_TYPES(BOULDER_TYPE) values('Technique');
+insert into BOULDER_TYPES(BOULDER_TYPE) values('Coordination');
+insert into BOULDER_TYPES(BOULDER_TYPE) values('Equilibre');
+insert into BOULDER_TYPES(BOULDER_TYPE) values('Modules');
+insert into BOULDER_TYPES(BOULDER_TYPE) values('Compression');
+insert into BOULDER_TYPES(BOULDER_TYPE) values('3d');
+
+insert into COLORS(COLOR) values('Blanche');
+insert into COLORS(COLOR) values('Rouge');
+insert into COLORS(COLOR) values('Jaune');
+insert into COLORS(COLOR) values('Bleue');
+insert into COLORS(COLOR) values('Verte');
+insert into COLORS(COLOR) values('Mauve');
+insert into COLORS(COLOR) values('Orange');
+insert into COLORS(COLOR) values('Noire');
+insert into COLORS(COLOR) values('Modules');
+insert into COLORS(COLOR) values('Turquoise');
+
+insert into HOLD_TYPES(HOLD_TYPE) values('Slopes');
+insert into HOLD_TYPES(HOLD_TYPE) values('Crimps');
+insert into HOLD_TYPES(HOLD_TYPE) values('Jugs');
+insert into HOLD_TYPES(HOLD_TYPE) values('Pinchs');
+insert into HOLD_TYPES(HOLD_TYPE) values('Crugs');
+insert into HOLD_TYPES(HOLD_TYPE) values('Modules');
+
+insert into GRADES(GRADE) values('V0');
+insert into GRADES(GRADE) values('V1');
+insert into GRADES(GRADE) values('V2');
+insert into GRADES(GRADE) values('V3');
+insert into GRADES(GRADE) values('V4');
+insert into GRADES(GRADE) values('V5');
+insert into GRADES(GRADE) values('V6');
+insert into GRADES(GRADE) values('V7');
+insert into GRADES(GRADE) values('V8');
+insert into GRADES(GRADE) values('V9');
+insert into GRADES(GRADE) values('V10');
+insert into GRADES(GRADE) values('V11');
+insert into GRADES(GRADE) values('V12');
+insert into GRADES(GRADE) values('V13');
+insert into GRADES(GRADE) values('V14');
+insert into GRADES(GRADE) values('V15');
+insert into GRADES(GRADE) values('V16');
+insert into GRADES(GRADE) values('V17');
+
+insert into BURNS(BURN_NUMBER) values('Flash');
+insert into BURNS(BURN_NUMBER) values('1');
+insert into BURNS(BURN_NUMBER) values('2');
+insert into BURNS(BURN_NUMBER) values('3');
+insert into BURNS(BURN_NUMBER) values('4');
+insert into BURNS(BURN_NUMBER) values('5');
+insert into BURNS(BURN_NUMBER) values('6-10');
+insert into BURNS(BURN_NUMBER) values('11-19');
+insert into BURNS(BURN_NUMBER) values('20+');
